@@ -1,0 +1,31 @@
+=pod
+
+=encoding utf-8
+
+=for :stopwords Chris Weyl
+
+=head1 NAME
+
+IO::SessionData
+
+=head1 VERSION
+
+This document describes version 0.001 of IO::SessionData - released September 16, 2012 as part of IO-SessionData.
+
+=head1 SOURCE
+
+The development version is on github at L<http://github.com/RsrchBoy/IO-SessionData>
+and may be cloned from L<git://github.com/RsrchBoy/IO-SessionData.git>
+
+=head1 AUTHOR
+
+Chris Weyl <cweyl@alumni.drew.edu>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2012 by Chris Weyl.
+
+This is free software, licensed under:
+
+  The GNU Lesser General Public License, Version 2.1, February 1999
+

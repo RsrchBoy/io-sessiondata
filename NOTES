@@ -1,0 +1,10 @@
+This package is composed of two classes that were apparently refactored out of
+SOAP::Lite 0.714, but have not subsequently been released to the CPAN *sigh*
+
+SOAP::Lite 0.715 will successfully install without them -- unless
+SOAP::Session::TCP is installed, in which case it will bail.  (awesome!)  I
+don't want to "own" these names at PAUSE, so I'm not going to release this for
+a while.
+
+Note that the "tarballs" branch is independent of this one, and will contain a
+built tarball suitable to pass to cpanm et al.
